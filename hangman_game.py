@@ -9,7 +9,7 @@ HANGMAN_ASCII_ART = r"""  _    _
 """
 
 MAX_TRIES = 6
-
+# A change
 print(HANGMAN_ASCII_ART, "\n",MAX_TRIES)
 
 #import random
